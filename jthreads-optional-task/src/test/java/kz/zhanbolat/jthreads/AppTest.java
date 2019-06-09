@@ -23,7 +23,6 @@ public class AppTest
     @Test
     public void Log4j2Test() {
     	 Logger logger = LogManager.getLogger(getClass());
-    	 System.out.println(logger.isDebugEnabled());
     	 logger.info("INFO");
     	 logger.debug("DEBUG");
     	 logger.error("ERROR");
