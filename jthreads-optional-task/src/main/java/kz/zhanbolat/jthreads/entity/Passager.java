@@ -5,21 +5,18 @@ import java.util.Objects;
 public class Passager {
 	private Long id;
 	private Integer terminalId;
-	private Long planeId;
 	private PassagerTarget passagerTarget;
 	
-	public Passager(Long id, Integer terminalId, Long planeId) {
+	public Passager(Long id, Integer terminalId) {
 		this.id = id;
 		this.terminalId = terminalId;
-		this.planeId = planeId;
 		this.passagerTarget = PassagerTarget.NO_TARGET;
 	}
 	
-	public Passager(Long id, Integer terminalId, Long planeId,
+	public Passager(Long id, Integer terminalId,
 					PassagerTarget passagerTarget) {
 		this.id = id;
 		this.terminalId = terminalId;
-		this.planeId = planeId;
 		this.passagerTarget = passagerTarget;
 	}
 
@@ -38,14 +35,6 @@ public class Passager {
 	public void setTerminalId(Integer terminalId) {
 		this.terminalId = terminalId;
 	}
-	
-	public Long getPlaneId() {
-		return planeId;
-	}
-
-	public void setPlaneId(Long planeId) {
-		this.planeId = planeId;
-	}
 
 	public PassagerTarget getPassagerTarget() {
 		return passagerTarget;
@@ -62,8 +51,6 @@ public class Passager {
 		builder.append(id);
 		builder.append(", terminalId=");
 		builder.append(terminalId);
-		builder.append(", planeId=");
-		builder.append(planeId);
 		builder.append(", passagerTarget=");
 		builder.append(passagerTarget);
 		builder.append("]");
@@ -72,7 +59,7 @@ public class Passager {
 
 	@Override
 	public int hashCode() {
-		return Objects.hash(id, passagerTarget, planeId, terminalId);
+		return Objects.hash(id, passagerTarget, terminalId);
 	}
 
 	@Override
@@ -85,7 +72,7 @@ public class Passager {
 			return false;
 		Passager other = (Passager) obj;
 		return Objects.equals(id, other.id) && passagerTarget == other.passagerTarget
-				&& Objects.equals(planeId, other.planeId) && Objects.equals(terminalId, other.terminalId);
+				&& Objects.equals(terminalId, other.terminalId);
 	}
 	
 }

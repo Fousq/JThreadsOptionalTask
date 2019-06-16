@@ -20,17 +20,14 @@ public class PassagerGeneratorTest {
 		Passager passager = passagerGen.generate(4, PassagerTarget.NO_TARGET);
 		logger.debug(passager);
 		assertTrue(passager.getId() == id);
-		assertTrue(passager.getPlaneId() == id);
 		assertTrue(passager.getPassagerTarget() == PassagerTarget.NO_TARGET);
 		passager = passagerGen.generate(4, PassagerTarget.TO_DISAMBARK);
 		logger.debug(passager);
 		assertTrue(passager.getId() == ++id);
-		assertTrue(passager.getPlaneId() == id);
 		assertTrue(passager.getPassagerTarget() == PassagerTarget.TO_DISAMBARK);
 		passager = passagerGen.generate(4, PassagerTarget.TO_LANT);
 		logger.debug(passager);
 		assertTrue(passager.getId() == ++id);
-		assertTrue(passager.getPlaneId() == id);
 		assertTrue(passager.getPassagerTarget() == PassagerTarget.TO_LANT);
 	}
 

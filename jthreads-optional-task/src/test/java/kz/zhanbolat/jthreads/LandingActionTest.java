@@ -43,7 +43,7 @@ public class LandingActionTest {
 		passagerGen = new PassagerGenerator();
 		terminalGen = new TerminalGenerator();
 		ladderGen = new LadderGenerator();
-		planeGen = new PlaneGenerator(planesNumber);
+		planeGen = new PlaneGenerator();
     	airport = Airport.getInstance();
 	}
 	

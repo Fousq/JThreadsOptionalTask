@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="kz.zhanbolat.jthreads.DisambarkationActionTest" time="1.393" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="kz.zhanbolat.jthreads.DisambarkationActionTest" time="3.108" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-10.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\7785~1\AppData\Local\Temp\surefire4493963419599318991\surefirebooter17398524506936662363.jar C:\Users\Жанболат\AppData\Local\Temp\surefire4493963419599318991 2019-06-17T01-52-48_408-jvmRun1 surefire5055336670242162126tmp surefire_09332783088296422788tmp"/>
+    <property name="sun.java.command" value="C:\Users\7785~1\AppData\Local\Temp\surefire1554261129517237983\surefirebooter8679628674845462340.jar C:\Users\Жанболат\AppData\Local\Temp\surefire1554261129517237983 2019-06-17T03-24-42_100-jvmRun1 surefire4809810932373313tmp surefire_017283641959541649133tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="DisambarkationActionTest"/>
     <property name="surefire.test.class.path" value="C:\Users\Жанболат\Documents\GitRep\JThreadsOptionalTask\jthreads-optional-task\target\test-classes;C:\Users\Жанболат\Documents\GitRep\JThreadsOptionalTask\jthreads-optional-task\target\classes;C:\Users\Жанболат\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Жанболат\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Жанболат\.m2\repository\org\apache\logging\log4j\log4j-core\2.11.2\log4j-core-2.11.2.jar;C:\Users\Жанболат\.m2\repository\org\apache\logging\log4j\log4j-api\2.11.2\log4j-api-2.11.2.jar;"/>
@@ -36,7 +36,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\7785~1\AppData\Local\Temp\surefire4493963419599318991\surefirebooter17398524506936662363.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\7785~1\AppData\Local\Temp\surefire1554261129517237983\surefirebooter8679628674845462340.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="10.0.2+13"/>
@@ -63,5 +63,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="54.0"/>
   </properties>
-  <testcase name="test" classname="kz.zhanbolat.jthreads.DisambarkationActionTest" time="0.82"/>
+  <testcase name="test" classname="kz.zhanbolat.jthreads.DisambarkationActionTest" time="2.546"/>
 </testsuite>

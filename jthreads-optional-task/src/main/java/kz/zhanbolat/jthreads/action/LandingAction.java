@@ -3,6 +3,9 @@ package kz.zhanbolat.jthreads.action;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import kz.zhanbolat.jthreads.entity.Airport;
 import kz.zhanbolat.jthreads.entity.Ladder;
 import kz.zhanbolat.jthreads.entity.Passager;
@@ -11,6 +14,7 @@ import kz.zhanbolat.jthreads.entity.Plane;
 import kz.zhanbolat.jthreads.entity.Terminal;
 
 public class LandingAction {
+	private static Logger logger = LogManager.getLogger(LandingAction.class);
 	private static Lock lock = new ReentrantLock();
 	
 	public void land(Plane plane, Ladder ladder) {
@@ -20,6 +24,7 @@ public class LandingAction {
 				Passager passager = plane.get(i);
 				ladder.add(passager);
 			}
+			logger.debug("Plane size: " + plane.size());
 			plane.clear();
 			ladder.setPlane(null);
 		} finally {

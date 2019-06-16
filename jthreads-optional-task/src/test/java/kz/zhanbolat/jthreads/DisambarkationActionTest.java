@@ -40,7 +40,7 @@ public class DisambarkationActionTest {
 		passagerGen = new PassagerGenerator();
 		terminalGen = new TerminalGenerator();
 		ladderGen = new LadderGenerator();
-		planeGen = new PlaneGenerator(planesNumber);
+		planeGen = new PlaneGenerator();
     	airport = Airport.getInstance();
 	}
 	
@@ -49,7 +49,7 @@ public class DisambarkationActionTest {
     	List<Passager> passagers = new ArrayList<>(passagersNumber);
     	List<Plane> planes = new ArrayList<>(planesNumber);
     	for (int i = 0; i < passagersNumber; i++) {
-    		Passager passager =passagerGen.generate(terminalsNumber, 
+    		Passager passager = passagerGen.generate(terminalsNumber, 
 					  							PassagerTarget.TO_DISAMBARK,
 					  							planesNumber);
     		logger.debug(passager);

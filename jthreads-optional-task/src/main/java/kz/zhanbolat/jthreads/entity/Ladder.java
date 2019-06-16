@@ -42,7 +42,7 @@ public class Ladder extends Thread {
 		while(true) {
 			if (plane != null && terminal != null) {
 				logger.info("Ladder"+ Thread.currentThread().getId() 
-							+ " has an plane to performe actions.");
+							+ " has a plane to performe actions.");
 				long planeId = plane.getId();
 				if (plane.size() == 0) {
 					logger.info("Ladder " + Thread.currentThread().getId()
@@ -62,7 +62,7 @@ public class Ladder extends Thread {
 					logger.info("Ladder " + Thread.currentThread().getId()
 							+ " has ended landing from plane "
 							+ planeId + " to terminal " 
-							+ terminal.getId());
+							+ terminal.getTerminalId());
 				}
 			} else {
 				logger.info("No plane to perfome. Starting to find for one.");

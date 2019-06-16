@@ -12,60 +12,60 @@ import kz.zhanbolat.jthreads.action.LandingAction;
 
 public class Terminal extends Thread {
 	private static final Logger logger = LogManager.getLogger(Terminal.class);
-	private Integer id;
+	private Integer terminalId;
 	private List<Passager> passagers;
 	private Airport airport;
 	private Ladder ladder;
 	private static LandingAction landingAction = new LandingAction();
 	private static DisembarkationAction disembarkationAction = new DisembarkationAction();
 	
-	public Terminal(Integer id, Ladder ladder, Airport airport, List<Passager> passagers) {
-		this.id = id;
+	public Terminal(Integer terminalId, Ladder ladder, Airport airport, List<Passager> passagers) {
+		this.terminalId = terminalId;
 		this.ladder = ladder;
 		this.airport = airport;
 		this.passagers = passagers;
 	}
 	
-	public Terminal(Integer id, Ladder ladder, Airport airport) {
-		this.id = id;
+	public Terminal(Integer terminalId, Ladder ladder, Airport airport) {
+		this.terminalId = terminalId;
 		this.ladder = ladder;
 		this.airport = airport;
 		passagers = new ArrayList<>();
 	}
 	
-	public Terminal(Integer id) {
-		this.id = id;
+	public Terminal(Integer terminalId) {
+		this.terminalId = terminalId;
 		passagers = new ArrayList<>();
 	}
 	
 	@Override
 	public void run() {
-		logger.info("Terminal " + id + " has started.");
+		logger.info("Terminal " + terminalId + " has started.");
 		while(true) {
 			if (passagers.size() != 0 && ladder != null &&
 				ladder.getPlane() != null) {
 				Passager passager = passagers.get(0);
 				if (passager.getPassagerTarget() == PassagerTarget.TO_DISAMBARK) {
-					logger.info("Terminal " + id + " has started disembarkation,"
+					logger.info("Terminal " + terminalId + " has started disembarkation,"
 								+ "on ladder " + ladder.getId() + ".");
 					disembarkationAction.disembark(Terminal.this, ladder);
-					logger.info("Terminal " + id + " has ended disembarkation.");
+					logger.info("Terminal " + terminalId + " has ended disembarkation.");
 				} else {
-					logger.info("Terminal " + id + " has started landing,"
+					logger.info("Terminal " + terminalId + " has started landing,"
 								+ "on airport.");
 					landingAction.land(Terminal.this, airport);
-					logger.info("Terminal " + id + " has ended landing.");
+					logger.info("Terminal " + terminalId + " has ended landing.");
 				}
 			}
 		}
 	}
 
-	public long getId() {
-		return id;
+	public long getTerminalId() {
+		return terminalId;
 	}
 
-	public void setId(Integer id) {
-		this.id = id;
+	public void setTerminalId(Integer terminalId) {
+		this.terminalId = terminalId;
 	}
 
 	public List<Passager> getPassagers() {

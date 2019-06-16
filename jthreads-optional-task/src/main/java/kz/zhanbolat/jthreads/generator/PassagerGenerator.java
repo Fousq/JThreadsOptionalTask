@@ -7,34 +7,28 @@ import kz.zhanbolat.jthreads.entity.PassagerTarget;
 
 public class PassagerGenerator {
 	private static IdGenerator passagerIdGen = new IdGenerator();
-	private static IdGenerator planeIdGen = new IdGenerator();
 	private static Random random = new Random();
 	
 	public Passager generate(int terminalsNumber) {
 		return new Passager(passagerIdGen.generate(),
-				random.nextInt(terminalsNumber),
-				planeIdGen.generate());
+				random.nextInt(terminalsNumber));
 	}
 	
 	public Passager generate(int terminalsNumber, long planeMaxId) {
-		planeIdGen.setMaxId(planeMaxId);
 		return new Passager(passagerIdGen.generate(),
-				random.nextInt(terminalsNumber),
-				planeIdGen.generate());
+				random.nextInt(terminalsNumber));
 	}
 	
 	public Passager generate(int terminalsNumber, 
 							PassagerTarget passagerTarget) {
 		return new Passager(passagerIdGen.generate(),
-							random.nextInt(terminalsNumber),
-							planeIdGen.generate(), passagerTarget);
+							random.nextInt(terminalsNumber), 
+							passagerTarget);
 	}
 	
 	public Passager generate(int terminalsNumber, 
 			PassagerTarget passagerTarget, long planeMaxId) {
-		planeIdGen.setMaxId(planeMaxId);
 		return new Passager(passagerIdGen.generate(),
-			random.nextInt(terminalsNumber),
-			planeIdGen.generate(), passagerTarget);
+			random.nextInt(terminalsNumber), passagerTarget);
 	}
 }

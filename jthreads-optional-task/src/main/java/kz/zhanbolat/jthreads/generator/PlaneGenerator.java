@@ -11,14 +11,6 @@ public class PlaneGenerator {
 	private static IdGenerator idGen = new IdGenerator();
 	private static Random random = new Random();
 	
-	public PlaneGenerator() {
-		
-	}
-	
-	public PlaneGenerator(long maxId) {
-		idGen.setMaxId(maxId);
-	}
-	
 	public Plane generateWithRandomCapacity(int bound) {
 		return new Plane(idGen.generate(), random.nextInt(bound));
 	}
@@ -33,10 +25,6 @@ public class PlaneGenerator {
 	
 	public Plane generate(int capacity, List<Passager> passagers) throws PlaneException {
 		return new Plane(idGen.generate(), capacity, passagers);
-	}
-	
-	public void setMaxId(long maxId) {
-		idGen.setMaxId(maxId);
 	}
 	
 }
