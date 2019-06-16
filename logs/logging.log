@@ -1,0 +1,1346 @@
+[DEBUG] 2019-06-17 03:55:33 [main] DisambarkationActionTest:55 - Passager [id=1, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=2, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=3, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=4, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=5, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=6, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=7, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=8, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=9, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=10, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=11, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=12, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=13, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=14, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=15, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=16, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=17, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=18, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=19, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=20, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=21, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=22, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=23, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=24, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=25, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=26, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=27, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=28, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=29, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=30, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=31, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=32, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=33, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=34, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=35, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=36, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=37, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=38, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=39, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=40, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=41, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=42, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=43, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=44, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=45, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=46, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=47, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=48, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=49, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=50, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=51, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=52, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=53, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=54, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=55, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=56, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=57, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=58, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=59, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=60, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=61, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=62, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=63, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=64, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=65, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=66, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=67, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=68, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=69, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=70, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=71, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=72, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=73, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=74, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=75, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=76, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=77, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=78, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=79, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=80, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=81, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=82, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=83, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=84, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=85, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=86, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=87, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=88, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=89, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=90, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=91, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=92, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=93, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=94, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=95, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=96, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=97, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=98, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=99, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:55 - Passager [id=100, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=1, capacity=30, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=2, capacity=44, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=3, capacity=51, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=4, capacity=7, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=5, capacity=79, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=6, capacity=39, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=7, capacity=96, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=8, capacity=90, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=9, capacity=78, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:60 - Plane [id=10, capacity=61, passagers=[]]
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:73 - Size of passagers before: 100
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:39 - Ladder 17 has started.
+[INFO ] 2019-06-17 03:55:34 [Thread-1] Terminal:43 - Terminal 1 has started.
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=3, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=4, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=6, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=7, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=13, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=14, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:55:34 [Thread-1] Terminal:49 - Terminal 1 has started disembarkation,on ladder 17.
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=27, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=29, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=31, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=37, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=39, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=45, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=47, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=48, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=51, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=58, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=63, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=64, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=65, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=66, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=71, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=73, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=81, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=83, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=92, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=95, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:74 - 26 passagers were added to terminal 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:76 - Size of passagers after: 74
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:43 - Terminal size: 26
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=3, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:73 - Size of passagers before: 74
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=4, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 03:55:34 [Thread-3] Terminal:43 - Terminal 2 has started.
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:39 - Ladder 19 has started.
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=6, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=7, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:74 - Ladder 19 found the plane.
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=13, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:44 - Ladder19 has a plane to performe actions.
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=14, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:48 - Ladder 19 has started disembarkation on plane 2
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=27, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=29, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=31, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=37, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=39, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=45, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=47, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=48, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=51, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=58, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=63, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=64, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=65, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=66, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=71, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=73, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=81, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=83, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=92, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:47 - Passager [id=95, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 03:55:34 [Thread-1] DisembarkationAction:52 - 26 passagers were added to ladder 17
+[INFO ] 2019-06-17 03:55:34 [Thread-1] Terminal:52 - Terminal 1 has ended disembarkation.
+[DEBUG] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:26 - Plane size: 26
+[INFO ] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:27 - Plane 1 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 1
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=2, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[INFO ] 2019-06-17 03:55:34 [Thread-3] Terminal:49 - Terminal 2 has started disembarkation,on ladder 19.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=8, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=10, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=11, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=15, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=20, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=21, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=23, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=24, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=25, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=28, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=30, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=32, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=33, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=34, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=35, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=40, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=44, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=46, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=49, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=50, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=52, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=55, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=56, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=57, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=60, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=67, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=68, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=70, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=77, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=80, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=85, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=87, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=91, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=96, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=98, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=99, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=100, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:74 - 38 passagers were added to terminal 2
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:76 - Size of passagers after: 36
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:73 - Size of passagers before: 36
+[DEBUG] 2019-06-17 03:55:34 [Thread-2] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 03:55:34 [Thread-2] DisembarkationAction:27 - Plane 2 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-3] Terminal:52 - Terminal 2 has ended disembarkation.
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:52 - Ladder 19 has ended disembarkation on plane 2
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-3] Terminal:49 - Terminal 2 has started disembarkation,on ladder 19.
+[DEBUG] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:27 - Plane 3 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 3
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 5
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=5, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=9, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=12, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=17, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=19, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=22, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=26, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=41, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=74, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=75, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=86, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=88, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=89, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=93, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=94, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:70 - Passager [id=97, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:74 - 16 passagers were added to terminal 3
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:76 - Size of passagers after: 20
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:73 - Size of passagers before: 20
+[DEBUG] 2019-06-17 03:55:34 [main] DisembarkationAction:74 - 0 passagers were added to terminal 4
+[DEBUG] 2019-06-17 03:55:34 [main] DisambarkationActionTest:76 - Size of passagers after: 20
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:43 - Terminal size: 38
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:74 - Ladder 19 found the plane.
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=2, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:44 - Ladder19 has a plane to performe actions.
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:48 - Ladder 19 has started disembarkation on plane 4
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=8, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=10, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=11, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-5] Terminal:43 - Terminal 3 has started.
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=15, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=20, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=21, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-4] Ladder:39 - Ladder 21 has started.
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=23, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=24, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-4] Ladder:74 - Ladder 21 found the plane.
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=25, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-4] Ladder:44 - Ladder21 has a plane to performe actions.
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=28, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-5] Terminal:49 - Terminal 3 has started disembarkation,on ladder 21.
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=30, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-4] Ladder:48 - Ladder 21 has started disembarkation on plane 6
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=32, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-7] Terminal:43 - Terminal 4 has started.
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=33, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=34, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=35, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=40, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=44, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=46, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=49, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=50, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=52, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=55, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=56, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=57, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=60, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=67, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=68, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=70, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=77, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=80, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=85, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=87, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=91, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=96, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=98, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=99, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:47 - Passager [id=100, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 03:55:34 [Thread-3] DisembarkationAction:52 - 38 passagers were added to ladder 19
+[INFO ] 2019-06-17 03:55:34 [Thread-3] Terminal:52 - Terminal 2 has ended disembarkation.
+[DEBUG] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:27 - Plane 5 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 5
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 7
+[DEBUG] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:27 - Plane 7 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 7
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 8
+[DEBUG] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:27 - Plane 8 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 8
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 9
+[DEBUG] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:27 - Plane 9 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 9
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 03:55:34 [Thread-2] DisembarkationAction:26 - Plane size: 7
+[INFO ] 2019-06-17 03:55:34 [Thread-2] DisembarkationAction:27 - Plane 4 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:43 - Terminal size: 16
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 10
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=5, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=9, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=12, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=17, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=19, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=22, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=26, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=41, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=74, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=75, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=86, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=88, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=89, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=93, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=94, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:47 - Passager [id=97, terminalId=3, passagerTarget=TO_DISAMBARK]has added to ladder 21
+[DEBUG] 2019-06-17 03:55:34 [Thread-5] DisembarkationAction:52 - 16 passagers were added to ladder 21
+[INFO ] 2019-06-17 03:55:34 [Thread-5] Terminal:52 - Terminal 3 has ended disembarkation.
+[DEBUG] 2019-06-17 03:55:34 [Thread-4] DisembarkationAction:26 - Plane size: 16
+[INFO ] 2019-06-17 03:55:34 [Thread-4] DisembarkationAction:27 - Plane 6 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-4] Ladder:52 - Ladder 21 has ended disembarkation on plane 6
+[INFO ] 2019-06-17 03:55:34 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-4] Ladder:71 - No plane found.
+[DEBUG] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:52 - Ladder 19 has ended disembarkation on plane 4
+[INFO ] 2019-06-17 03:55:34 [Thread-0] DisembarkationAction:27 - Plane 10 is full
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 10
+[INFO ] 2019-06-17 03:55:34 [Thread-2] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 03:55:34 [Thread-6] Ladder:39 - Ladder 23 has started.
+[INFO ] 2019-06-17 03:55:34 [Thread-6] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-6] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:55:34 [Thread-0] Ladder:71 - No plane found.
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=1, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=2, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=3, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=4, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=5, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=6, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=7, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=8, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=9, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=10, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=11, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=12, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=13, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=14, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=15, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=16, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=17, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=18, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=19, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=20, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=1, capacity=100, passagers=[Passager [id=1, terminalId=2, passagerTarget=TO_LANT], Passager [id=2, terminalId=1, passagerTarget=TO_LANT], Passager [id=3, terminalId=2, passagerTarget=TO_LANT], Passager [id=4, terminalId=0, passagerTarget=TO_LANT], Passager [id=5, terminalId=2, passagerTarget=TO_LANT], Passager [id=6, terminalId=1, passagerTarget=TO_LANT], Passager [id=7, terminalId=0, passagerTarget=TO_LANT], Passager [id=8, terminalId=2, passagerTarget=TO_LANT], Passager [id=9, terminalId=1, passagerTarget=TO_LANT], Passager [id=10, terminalId=3, passagerTarget=TO_LANT], Passager [id=11, terminalId=0, passagerTarget=TO_LANT], Passager [id=12, terminalId=3, passagerTarget=TO_LANT], Passager [id=13, terminalId=0, passagerTarget=TO_LANT], Passager [id=14, terminalId=1, passagerTarget=TO_LANT], Passager [id=15, terminalId=2, passagerTarget=TO_LANT], Passager [id=16, terminalId=1, passagerTarget=TO_LANT], Passager [id=17, terminalId=0, passagerTarget=TO_LANT], Passager [id=18, terminalId=0, passagerTarget=TO_LANT], Passager [id=19, terminalId=1, passagerTarget=TO_LANT], Passager [id=20, terminalId=3, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=21, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=22, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=23, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=24, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=25, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=26, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=27, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=28, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=29, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=30, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=31, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=32, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=33, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=34, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=35, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=36, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=37, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=38, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=39, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=40, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=2, capacity=100, passagers=[Passager [id=21, terminalId=1, passagerTarget=TO_LANT], Passager [id=22, terminalId=0, passagerTarget=TO_LANT], Passager [id=23, terminalId=0, passagerTarget=TO_LANT], Passager [id=24, terminalId=3, passagerTarget=TO_LANT], Passager [id=25, terminalId=1, passagerTarget=TO_LANT], Passager [id=26, terminalId=1, passagerTarget=TO_LANT], Passager [id=27, terminalId=1, passagerTarget=TO_LANT], Passager [id=28, terminalId=1, passagerTarget=TO_LANT], Passager [id=29, terminalId=1, passagerTarget=TO_LANT], Passager [id=30, terminalId=0, passagerTarget=TO_LANT], Passager [id=31, terminalId=1, passagerTarget=TO_LANT], Passager [id=32, terminalId=0, passagerTarget=TO_LANT], Passager [id=33, terminalId=1, passagerTarget=TO_LANT], Passager [id=34, terminalId=1, passagerTarget=TO_LANT], Passager [id=35, terminalId=0, passagerTarget=TO_LANT], Passager [id=36, terminalId=2, passagerTarget=TO_LANT], Passager [id=37, terminalId=1, passagerTarget=TO_LANT], Passager [id=38, terminalId=3, passagerTarget=TO_LANT], Passager [id=39, terminalId=0, passagerTarget=TO_LANT], Passager [id=40, terminalId=0, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=41, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=42, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=43, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=44, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=45, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=46, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=47, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=48, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=49, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=50, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=51, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=52, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=53, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=54, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=55, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=56, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=57, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=58, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=59, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=60, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=3, capacity=100, passagers=[Passager [id=41, terminalId=3, passagerTarget=TO_LANT], Passager [id=42, terminalId=0, passagerTarget=TO_LANT], Passager [id=43, terminalId=3, passagerTarget=TO_LANT], Passager [id=44, terminalId=1, passagerTarget=TO_LANT], Passager [id=45, terminalId=0, passagerTarget=TO_LANT], Passager [id=46, terminalId=3, passagerTarget=TO_LANT], Passager [id=47, terminalId=1, passagerTarget=TO_LANT], Passager [id=48, terminalId=3, passagerTarget=TO_LANT], Passager [id=49, terminalId=1, passagerTarget=TO_LANT], Passager [id=50, terminalId=2, passagerTarget=TO_LANT], Passager [id=51, terminalId=3, passagerTarget=TO_LANT], Passager [id=52, terminalId=2, passagerTarget=TO_LANT], Passager [id=53, terminalId=0, passagerTarget=TO_LANT], Passager [id=54, terminalId=1, passagerTarget=TO_LANT], Passager [id=55, terminalId=2, passagerTarget=TO_LANT], Passager [id=56, terminalId=3, passagerTarget=TO_LANT], Passager [id=57, terminalId=1, passagerTarget=TO_LANT], Passager [id=58, terminalId=2, passagerTarget=TO_LANT], Passager [id=59, terminalId=1, passagerTarget=TO_LANT], Passager [id=60, terminalId=3, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=61, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=62, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=63, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=64, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=65, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=66, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=67, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=68, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=69, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=70, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=71, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=72, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=73, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=74, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=75, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=76, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=77, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=78, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=79, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=80, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=4, capacity=100, passagers=[Passager [id=61, terminalId=2, passagerTarget=TO_LANT], Passager [id=62, terminalId=0, passagerTarget=TO_LANT], Passager [id=63, terminalId=3, passagerTarget=TO_LANT], Passager [id=64, terminalId=2, passagerTarget=TO_LANT], Passager [id=65, terminalId=1, passagerTarget=TO_LANT], Passager [id=66, terminalId=2, passagerTarget=TO_LANT], Passager [id=67, terminalId=0, passagerTarget=TO_LANT], Passager [id=68, terminalId=0, passagerTarget=TO_LANT], Passager [id=69, terminalId=0, passagerTarget=TO_LANT], Passager [id=70, terminalId=3, passagerTarget=TO_LANT], Passager [id=71, terminalId=2, passagerTarget=TO_LANT], Passager [id=72, terminalId=1, passagerTarget=TO_LANT], Passager [id=73, terminalId=3, passagerTarget=TO_LANT], Passager [id=74, terminalId=2, passagerTarget=TO_LANT], Passager [id=75, terminalId=0, passagerTarget=TO_LANT], Passager [id=76, terminalId=1, passagerTarget=TO_LANT], Passager [id=77, terminalId=1, passagerTarget=TO_LANT], Passager [id=78, terminalId=2, passagerTarget=TO_LANT], Passager [id=79, terminalId=0, passagerTarget=TO_LANT], Passager [id=80, terminalId=3, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=81, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=82, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=83, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=84, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=85, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=86, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=87, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=88, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=89, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=90, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=91, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=92, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=93, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=94, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=95, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=96, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=97, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=98, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=99, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=100, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=5, capacity=100, passagers=[Passager [id=81, terminalId=1, passagerTarget=TO_LANT], Passager [id=82, terminalId=3, passagerTarget=TO_LANT], Passager [id=83, terminalId=0, passagerTarget=TO_LANT], Passager [id=84, terminalId=3, passagerTarget=TO_LANT], Passager [id=85, terminalId=1, passagerTarget=TO_LANT], Passager [id=86, terminalId=3, passagerTarget=TO_LANT], Passager [id=87, terminalId=1, passagerTarget=TO_LANT], Passager [id=88, terminalId=3, passagerTarget=TO_LANT], Passager [id=89, terminalId=0, passagerTarget=TO_LANT], Passager [id=90, terminalId=3, passagerTarget=TO_LANT], Passager [id=91, terminalId=3, passagerTarget=TO_LANT], Passager [id=92, terminalId=2, passagerTarget=TO_LANT], Passager [id=93, terminalId=1, passagerTarget=TO_LANT], Passager [id=94, terminalId=3, passagerTarget=TO_LANT], Passager [id=95, terminalId=1, passagerTarget=TO_LANT], Passager [id=96, terminalId=2, passagerTarget=TO_LANT], Passager [id=97, terminalId=1, passagerTarget=TO_LANT], Passager [id=98, terminalId=0, passagerTarget=TO_LANT], Passager [id=99, terminalId=3, passagerTarget=TO_LANT], Passager [id=100, terminalId=1, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=101, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=102, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=103, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=104, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=105, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=106, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=107, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=108, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=109, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=110, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=111, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=112, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=113, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=114, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=115, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=116, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=117, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=118, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=119, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=120, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=6, capacity=100, passagers=[Passager [id=101, terminalId=0, passagerTarget=TO_LANT], Passager [id=102, terminalId=3, passagerTarget=TO_LANT], Passager [id=103, terminalId=1, passagerTarget=TO_LANT], Passager [id=104, terminalId=0, passagerTarget=TO_LANT], Passager [id=105, terminalId=3, passagerTarget=TO_LANT], Passager [id=106, terminalId=3, passagerTarget=TO_LANT], Passager [id=107, terminalId=1, passagerTarget=TO_LANT], Passager [id=108, terminalId=3, passagerTarget=TO_LANT], Passager [id=109, terminalId=0, passagerTarget=TO_LANT], Passager [id=110, terminalId=0, passagerTarget=TO_LANT], Passager [id=111, terminalId=2, passagerTarget=TO_LANT], Passager [id=112, terminalId=1, passagerTarget=TO_LANT], Passager [id=113, terminalId=1, passagerTarget=TO_LANT], Passager [id=114, terminalId=0, passagerTarget=TO_LANT], Passager [id=115, terminalId=1, passagerTarget=TO_LANT], Passager [id=116, terminalId=3, passagerTarget=TO_LANT], Passager [id=117, terminalId=1, passagerTarget=TO_LANT], Passager [id=118, terminalId=3, passagerTarget=TO_LANT], Passager [id=119, terminalId=1, passagerTarget=TO_LANT], Passager [id=120, terminalId=0, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=121, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=122, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=123, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=124, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=125, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=126, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=127, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=128, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=129, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=130, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=131, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=132, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=133, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=134, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=135, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=136, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=137, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=138, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=139, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=140, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=7, capacity=100, passagers=[Passager [id=121, terminalId=1, passagerTarget=TO_LANT], Passager [id=122, terminalId=1, passagerTarget=TO_LANT], Passager [id=123, terminalId=0, passagerTarget=TO_LANT], Passager [id=124, terminalId=0, passagerTarget=TO_LANT], Passager [id=125, terminalId=1, passagerTarget=TO_LANT], Passager [id=126, terminalId=2, passagerTarget=TO_LANT], Passager [id=127, terminalId=0, passagerTarget=TO_LANT], Passager [id=128, terminalId=0, passagerTarget=TO_LANT], Passager [id=129, terminalId=0, passagerTarget=TO_LANT], Passager [id=130, terminalId=2, passagerTarget=TO_LANT], Passager [id=131, terminalId=1, passagerTarget=TO_LANT], Passager [id=132, terminalId=2, passagerTarget=TO_LANT], Passager [id=133, terminalId=2, passagerTarget=TO_LANT], Passager [id=134, terminalId=2, passagerTarget=TO_LANT], Passager [id=135, terminalId=1, passagerTarget=TO_LANT], Passager [id=136, terminalId=1, passagerTarget=TO_LANT], Passager [id=137, terminalId=2, passagerTarget=TO_LANT], Passager [id=138, terminalId=3, passagerTarget=TO_LANT], Passager [id=139, terminalId=3, passagerTarget=TO_LANT], Passager [id=140, terminalId=1, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=141, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=142, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=143, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=144, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=145, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=146, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=147, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=148, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=149, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=150, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=151, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=152, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=153, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=154, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=155, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=156, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=157, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=158, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=159, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=160, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=8, capacity=100, passagers=[Passager [id=141, terminalId=0, passagerTarget=TO_LANT], Passager [id=142, terminalId=1, passagerTarget=TO_LANT], Passager [id=143, terminalId=0, passagerTarget=TO_LANT], Passager [id=144, terminalId=1, passagerTarget=TO_LANT], Passager [id=145, terminalId=2, passagerTarget=TO_LANT], Passager [id=146, terminalId=2, passagerTarget=TO_LANT], Passager [id=147, terminalId=0, passagerTarget=TO_LANT], Passager [id=148, terminalId=3, passagerTarget=TO_LANT], Passager [id=149, terminalId=2, passagerTarget=TO_LANT], Passager [id=150, terminalId=3, passagerTarget=TO_LANT], Passager [id=151, terminalId=1, passagerTarget=TO_LANT], Passager [id=152, terminalId=3, passagerTarget=TO_LANT], Passager [id=153, terminalId=2, passagerTarget=TO_LANT], Passager [id=154, terminalId=1, passagerTarget=TO_LANT], Passager [id=155, terminalId=3, passagerTarget=TO_LANT], Passager [id=156, terminalId=1, passagerTarget=TO_LANT], Passager [id=157, terminalId=3, passagerTarget=TO_LANT], Passager [id=158, terminalId=3, passagerTarget=TO_LANT], Passager [id=159, terminalId=0, passagerTarget=TO_LANT], Passager [id=160, terminalId=3, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=161, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=162, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=163, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=164, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=165, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=166, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=167, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=168, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=169, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=170, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=171, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=172, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=173, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=174, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=175, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=176, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=177, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=178, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=179, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=180, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=9, capacity=100, passagers=[Passager [id=161, terminalId=2, passagerTarget=TO_LANT], Passager [id=162, terminalId=3, passagerTarget=TO_LANT], Passager [id=163, terminalId=1, passagerTarget=TO_LANT], Passager [id=164, terminalId=2, passagerTarget=TO_LANT], Passager [id=165, terminalId=2, passagerTarget=TO_LANT], Passager [id=166, terminalId=2, passagerTarget=TO_LANT], Passager [id=167, terminalId=1, passagerTarget=TO_LANT], Passager [id=168, terminalId=0, passagerTarget=TO_LANT], Passager [id=169, terminalId=0, passagerTarget=TO_LANT], Passager [id=170, terminalId=0, passagerTarget=TO_LANT], Passager [id=171, terminalId=2, passagerTarget=TO_LANT], Passager [id=172, terminalId=2, passagerTarget=TO_LANT], Passager [id=173, terminalId=0, passagerTarget=TO_LANT], Passager [id=174, terminalId=2, passagerTarget=TO_LANT], Passager [id=175, terminalId=1, passagerTarget=TO_LANT], Passager [id=176, terminalId=3, passagerTarget=TO_LANT], Passager [id=177, terminalId=1, passagerTarget=TO_LANT], Passager [id=178, terminalId=1, passagerTarget=TO_LANT], Passager [id=179, terminalId=2, passagerTarget=TO_LANT], Passager [id=180, terminalId=2, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=181, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=182, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=183, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=184, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=185, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=186, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=187, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=188, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=189, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=190, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=191, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=192, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=193, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=194, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=195, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=196, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=197, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=198, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=199, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:59 - Passager [id=200, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:66 - Plane [id=10, capacity=100, passagers=[Passager [id=181, terminalId=1, passagerTarget=TO_LANT], Passager [id=182, terminalId=1, passagerTarget=TO_LANT], Passager [id=183, terminalId=3, passagerTarget=TO_LANT], Passager [id=184, terminalId=3, passagerTarget=TO_LANT], Passager [id=185, terminalId=1, passagerTarget=TO_LANT], Passager [id=186, terminalId=3, passagerTarget=TO_LANT], Passager [id=187, terminalId=0, passagerTarget=TO_LANT], Passager [id=188, terminalId=1, passagerTarget=TO_LANT], Passager [id=189, terminalId=3, passagerTarget=TO_LANT], Passager [id=190, terminalId=0, passagerTarget=TO_LANT], Passager [id=191, terminalId=1, passagerTarget=TO_LANT], Passager [id=192, terminalId=0, passagerTarget=TO_LANT], Passager [id=193, terminalId=2, passagerTarget=TO_LANT], Passager [id=194, terminalId=3, passagerTarget=TO_LANT], Passager [id=195, terminalId=0, passagerTarget=TO_LANT], Passager [id=196, terminalId=3, passagerTarget=TO_LANT], Passager [id=197, terminalId=0, passagerTarget=TO_LANT], Passager [id=198, terminalId=2, passagerTarget=TO_LANT], Passager [id=199, terminalId=2, passagerTarget=TO_LANT], Passager [id=200, terminalId=3, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 03:57:04 [main] LandingActionTest:75 - Planes size: 10
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:39 - Ladder 17 has started.
+[INFO ] 2019-06-17 03:57:04 [Thread-1] Terminal:43 - Terminal 1 has started.
+[INFO ] 2019-06-17 03:57:04 [Thread-6] Ladder:39 - Ladder 23 has started.
+[INFO ] 2019-06-17 03:57:04 [Thread-3] Terminal:43 - Terminal 2 has started.
+[INFO ] 2019-06-17 03:57:04 [Thread-5] Terminal:43 - Terminal 3 has started.
+[INFO ] 2019-06-17 03:57:04 [Thread-2] Ladder:39 - Ladder 19 has started.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:39 - Ladder 21 has started.
+[INFO ] 2019-06-17 03:57:04 [Thread-7] Terminal:43 - Terminal 4 has started.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:56 - Ladder 17 has started landing from plane 1 to terminal 18
+[DEBUG] 2019-06-17 03:57:04 [Thread-0] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:62 - Ladder 17 has ended landing from plane 1 to terminal 1
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-1] Terminal:54 - Terminal 1 has started landing,on airport.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-1] Terminal:57 - Terminal 1 has ended landing.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:56 - Ladder 17 has started landing from plane 2 to terminal 18
+[DEBUG] 2019-06-17 03:57:04 [Thread-0] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:62 - Ladder 17 has ended landing from plane 2 to terminal 1
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:74 - Ladder 21 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:44 - Ladder21 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:56 - Ladder 21 has started landing from plane 4 to terminal 22
+[DEBUG] 2019-06-17 03:57:04 [Thread-4] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:62 - Ladder 21 has ended landing from plane 4 to terminal 3
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:74 - Ladder 21 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:44 - Ladder21 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:56 - Ladder 21 has started landing from plane 5 to terminal 22
+[DEBUG] 2019-06-17 03:57:04 [Thread-4] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:62 - Ladder 21 has ended landing from plane 5 to terminal 3
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:74 - Ladder 21 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:44 - Ladder21 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:56 - Ladder 21 has started landing from plane 6 to terminal 22
+[DEBUG] 2019-06-17 03:57:04 [Thread-4] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:62 - Ladder 21 has ended landing from plane 6 to terminal 3
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:74 - Ladder 21 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:44 - Ladder21 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:56 - Ladder 21 has started landing from plane 7 to terminal 22
+[INFO ] 2019-06-17 03:57:04 [Thread-5] Terminal:54 - Terminal 3 has started landing,on airport.
+[DEBUG] 2019-06-17 03:57:04 [Thread-4] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:62 - Ladder 21 has ended landing from plane 7 to terminal 3
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:74 - Ladder 21 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:44 - Ladder21 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:56 - Ladder 21 has started landing from plane 8 to terminal 22
+[DEBUG] 2019-06-17 03:57:04 [Thread-4] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:62 - Ladder 21 has ended landing from plane 8 to terminal 3
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:74 - Ladder 21 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:44 - Ladder21 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:56 - Ladder 17 has started landing from plane 3 to terminal 18
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:56 - Ladder 21 has started landing from plane 9 to terminal 22
+[DEBUG] 2019-06-17 03:57:04 [Thread-0] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:62 - Ladder 17 has ended landing from plane 3 to terminal 1
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-5] Terminal:57 - Terminal 3 has ended landing.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:56 - Ladder 17 has started landing from plane 10 to terminal 18
+[DEBUG] 2019-06-17 03:57:04 [Thread-0] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:62 - Ladder 17 has ended landing from plane 10 to terminal 1
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-0] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 03:57:04 [Thread-1] Terminal:54 - Terminal 1 has started landing,on airport.
+[INFO ] 2019-06-17 03:57:04 [Thread-6] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 03:57:04 [Thread-4] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 03:57:04 [Thread-6] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 03:57:04 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:62 - Ladder 21 has ended landing from plane 9 to terminal 3
+[INFO ] 2019-06-17 03:57:04 [Thread-2] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 03:57:04 [Thread-1] Terminal:57 - Terminal 1 has ended landing.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 03:57:04 [Thread-4] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 04:00:51 [main] AppTest:23 - INFO
+[DEBUG] 2019-06-17 04:00:51 [main] AppTest:24 - DEBUG
+[ERROR] 2019-06-17 04:00:51 [main] AppTest:25 - ERROR
+[FATAL] 2019-06-17 04:00:51 [main] AppTest:26 - FATAL
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=1, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=2, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=3, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=4, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=5, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=6, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=7, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=8, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=9, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=10, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=11, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=12, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=13, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=14, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=15, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=16, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=17, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=18, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=19, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=20, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=21, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=22, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=23, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=24, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=25, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=26, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=27, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=28, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=29, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=30, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=31, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=32, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=33, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=34, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=35, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=36, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=37, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=38, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=39, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=40, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=41, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=42, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=43, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=44, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=45, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=46, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=47, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=48, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=49, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=50, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=51, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=52, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=53, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=54, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=55, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=56, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=57, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=58, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=59, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=60, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=61, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=62, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=63, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=64, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=65, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=66, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=67, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=68, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=69, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=70, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=71, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=72, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=73, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=74, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=75, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=76, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=77, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=78, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=79, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=80, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=81, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=82, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=83, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=84, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=85, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=86, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=87, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=88, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=89, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=90, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=91, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=92, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=93, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=94, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=95, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=96, terminalId=3, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=97, terminalId=2, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=98, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=99, terminalId=0, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:55 - Passager [id=100, terminalId=1, passagerTarget=TO_DISAMBARK]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=1, capacity=64, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=2, capacity=11, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=3, capacity=54, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=4, capacity=18, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=5, capacity=20, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=6, capacity=64, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=7, capacity=63, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=8, capacity=55, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=9, capacity=8, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:60 - Plane [id=10, capacity=81, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:73 - Size of passagers before: 100
+[INFO ] 2019-06-17 04:00:51 [Thread-1] Terminal:43 - Terminal 1 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:39 - Ladder 17 has started.
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=2, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=3, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=16, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=19, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=23, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-1] Terminal:49 - Terminal 1 has started disembarkation,on ladder 17.
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=24, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=28, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=30, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=31, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=34, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=35, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=39, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=42, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=45, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=47, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=49, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=53, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=55, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=58, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=61, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=65, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=67, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=77, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=82, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=85, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=90, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=93, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=94, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=98, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=100, terminalId=1, passagerTarget=TO_DISAMBARK] added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:74 - 30 passagers were added to terminal 1
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:76 - Size of passagers after: 70
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:43 - Terminal size: 30
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=2, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=3, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:73 - Size of passagers before: 70
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=16, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 04:00:51 [Thread-3] Terminal:43 - Terminal 2 has started.
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=19, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:39 - Ladder 19 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=23, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:74 - Ladder 19 found the plane.
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=24, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:44 - Ladder19 has a plane to performe actions.
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=28, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:48 - Ladder 19 has started disembarkation on plane 2
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=30, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=31, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=34, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=35, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=39, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=42, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=45, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=47, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=49, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=53, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=55, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=58, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=61, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=65, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=67, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=77, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=82, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=85, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=90, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=93, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=94, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=98, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:47 - Passager [id=100, terminalId=1, passagerTarget=TO_DISAMBARK]has added to ladder 17
+[DEBUG] 2019-06-17 04:00:51 [Thread-1] DisembarkationAction:52 - 30 passagers were added to ladder 17
+[INFO ] 2019-06-17 04:00:51 [Thread-1] Terminal:52 - Terminal 1 has ended disembarkation.
+[DEBUG] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:26 - Plane size: 30
+[INFO ] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:27 - Plane 1 is full
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 1
+[INFO ] 2019-06-17 04:00:51 [Thread-3] Terminal:49 - Terminal 2 has started disembarkation,on ladder 19.
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=13, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=18, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=20, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=22, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=26, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=41, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=43, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=54, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=57, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=66, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=71, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=74, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=75, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=76, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=81, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=91, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=95, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=97, terminalId=2, passagerTarget=TO_DISAMBARK] added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:74 - 18 passagers were added to terminal 2
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:76 - Size of passagers after: 52
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:73 - Size of passagers before: 52
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=7, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=9, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=10, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=11, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=14, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=21, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=25, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=33, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=37, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=38, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=40, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=44, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=46, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=50, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=56, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=59, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=62, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=63, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=64, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=68, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=69, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=73, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=83, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=86, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=87, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=88, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=89, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=92, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:70 - Passager [id=96, terminalId=3, passagerTarget=TO_DISAMBARK] added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:74 - 29 passagers were added to terminal 3
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:76 - Size of passagers after: 23
+[DEBUG] 2019-06-17 04:00:51 [Thread-2] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 04:00:51 [Thread-2] DisembarkationAction:27 - Plane 2 is full
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:73 - Size of passagers before: 23
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:52 - Ladder 19 has ended disembarkation on plane 2
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 04:00:51 [main] DisembarkationAction:74 - 0 passagers were added to terminal 4
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:74 - Ladder 19 found the plane.
+[DEBUG] 2019-06-17 04:00:51 [main] DisambarkationActionTest:76 - Size of passagers after: 23
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:44 - Ladder19 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:48 - Ladder 19 has started disembarkation on plane 4
+[DEBUG] 2019-06-17 04:00:51 [Thread-2] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 04:00:51 [Thread-2] DisembarkationAction:27 - Plane 4 is full
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:52 - Ladder 19 has ended disembarkation on plane 4
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:74 - Ladder 19 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:44 - Ladder19 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:48 - Ladder 19 has started disembarkation on plane 5
+[DEBUG] 2019-06-17 04:00:51 [Thread-2] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 04:00:51 [Thread-2] DisembarkationAction:27 - Plane 5 is full
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:52 - Ladder 19 has ended disembarkation on plane 5
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:74 - Ladder 19 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:27 - Plane 3 is full
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 3
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 7
+[DEBUG] 2019-06-17 04:00:51 [main] LadderGeneratorTest:31 - Thread[Thread-8,5,main]
+[DEBUG] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[DEBUG] 2019-06-17 04:00:51 [main] LadderGeneratorTest:36 - Thread[Thread-10,5,main]
+[INFO ] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:27 - Plane 7 is full
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 7
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 8
+[DEBUG] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:27 - Plane 8 is full
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=101, terminalId=0, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 8
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=102, terminalId=3, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=103, terminalId=2, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-5] Terminal:43 - Terminal 3 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=104, terminalId=2, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=105, terminalId=0, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 9
+[DEBUG] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:27 - Plane 9 is full
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 9
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:74 - Ladder 17 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:44 - Ladder17 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:48 - Ladder 17 has started disembarkation on plane 10
+[DEBUG] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:26 - Plane size: 0
+[INFO ] 2019-06-17 04:00:51 [Thread-0] DisembarkationAction:27 - Plane 10 is full
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:52 - Ladder 17 has ended disembarkation on plane 10
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-0] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 04:00:51 [Thread-3] Terminal:52 - Terminal 2 has ended disembarkation.
+[INFO ] 2019-06-17 04:00:51 [Thread-3] Terminal:49 - Terminal 2 has started disembarkation,on ladder 19.
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:43 - Terminal size: 18
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=13, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 04:00:51 [Thread-4] Ladder:39 - Ladder 21 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-4] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-4] Ladder:71 - No plane found.
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=18, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=20, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 04:00:51 [Thread-6] Ladder:39 - Ladder 23 has started.
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=22, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[INFO ] 2019-06-17 04:00:51 [Thread-7] Terminal:43 - Terminal 4 has started.
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=26, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=41, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=43, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=54, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=57, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=66, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=71, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=74, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=75, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=76, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=81, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=91, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=95, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:47 - Passager [id=97, terminalId=2, passagerTarget=TO_DISAMBARK]has added to ladder 19
+[DEBUG] 2019-06-17 04:00:51 [Thread-3] DisembarkationAction:52 - 18 passagers were added to ladder 19
+[INFO ] 2019-06-17 04:00:51 [Thread-3] Terminal:52 - Terminal 2 has ended disembarkation.
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=106, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=107, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=108, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=109, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=110, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=111, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=112, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=113, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=114, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=115, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=116, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=117, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=118, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=119, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=120, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=12, capacity=100, passagers=[Passager [id=101, terminalId=0, passagerTarget=TO_LANT], Passager [id=102, terminalId=3, passagerTarget=TO_LANT], Passager [id=103, terminalId=2, passagerTarget=TO_LANT], Passager [id=104, terminalId=2, passagerTarget=TO_LANT], Passager [id=105, terminalId=0, passagerTarget=TO_LANT], Passager [id=106, terminalId=2, passagerTarget=TO_LANT], Passager [id=107, terminalId=2, passagerTarget=TO_LANT], Passager [id=108, terminalId=1, passagerTarget=TO_LANT], Passager [id=109, terminalId=2, passagerTarget=TO_LANT], Passager [id=110, terminalId=3, passagerTarget=TO_LANT], Passager [id=111, terminalId=0, passagerTarget=TO_LANT], Passager [id=112, terminalId=1, passagerTarget=TO_LANT], Passager [id=113, terminalId=3, passagerTarget=TO_LANT], Passager [id=114, terminalId=3, passagerTarget=TO_LANT], Passager [id=115, terminalId=3, passagerTarget=TO_LANT], Passager [id=116, terminalId=0, passagerTarget=TO_LANT], Passager [id=117, terminalId=2, passagerTarget=TO_LANT], Passager [id=118, terminalId=2, passagerTarget=TO_LANT], Passager [id=119, terminalId=0, passagerTarget=TO_LANT], Passager [id=120, terminalId=1, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=121, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=122, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=123, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=124, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=125, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=126, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=127, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=128, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=129, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=130, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=131, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=132, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=133, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=134, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=135, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=136, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=137, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=138, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=139, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=140, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=13, capacity=100, passagers=[Passager [id=121, terminalId=3, passagerTarget=TO_LANT], Passager [id=122, terminalId=3, passagerTarget=TO_LANT], Passager [id=123, terminalId=3, passagerTarget=TO_LANT], Passager [id=124, terminalId=3, passagerTarget=TO_LANT], Passager [id=125, terminalId=2, passagerTarget=TO_LANT], Passager [id=126, terminalId=1, passagerTarget=TO_LANT], Passager [id=127, terminalId=2, passagerTarget=TO_LANT], Passager [id=128, terminalId=1, passagerTarget=TO_LANT], Passager [id=129, terminalId=0, passagerTarget=TO_LANT], Passager [id=130, terminalId=3, passagerTarget=TO_LANT], Passager [id=131, terminalId=1, passagerTarget=TO_LANT], Passager [id=132, terminalId=1, passagerTarget=TO_LANT], Passager [id=133, terminalId=3, passagerTarget=TO_LANT], Passager [id=134, terminalId=1, passagerTarget=TO_LANT], Passager [id=135, terminalId=1, passagerTarget=TO_LANT], Passager [id=136, terminalId=3, passagerTarget=TO_LANT], Passager [id=137, terminalId=2, passagerTarget=TO_LANT], Passager [id=138, terminalId=2, passagerTarget=TO_LANT], Passager [id=139, terminalId=0, passagerTarget=TO_LANT], Passager [id=140, terminalId=3, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=141, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=142, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=143, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=144, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=145, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=146, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=147, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=148, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=149, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=150, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=151, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=152, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=153, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=154, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=155, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=156, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=157, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=158, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=159, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=160, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=14, capacity=100, passagers=[Passager [id=141, terminalId=1, passagerTarget=TO_LANT], Passager [id=142, terminalId=3, passagerTarget=TO_LANT], Passager [id=143, terminalId=3, passagerTarget=TO_LANT], Passager [id=144, terminalId=2, passagerTarget=TO_LANT], Passager [id=145, terminalId=0, passagerTarget=TO_LANT], Passager [id=146, terminalId=3, passagerTarget=TO_LANT], Passager [id=147, terminalId=0, passagerTarget=TO_LANT], Passager [id=148, terminalId=3, passagerTarget=TO_LANT], Passager [id=149, terminalId=2, passagerTarget=TO_LANT], Passager [id=150, terminalId=2, passagerTarget=TO_LANT], Passager [id=151, terminalId=1, passagerTarget=TO_LANT], Passager [id=152, terminalId=3, passagerTarget=TO_LANT], Passager [id=153, terminalId=2, passagerTarget=TO_LANT], Passager [id=154, terminalId=1, passagerTarget=TO_LANT], Passager [id=155, terminalId=2, passagerTarget=TO_LANT], Passager [id=156, terminalId=1, passagerTarget=TO_LANT], Passager [id=157, terminalId=3, passagerTarget=TO_LANT], Passager [id=158, terminalId=0, passagerTarget=TO_LANT], Passager [id=159, terminalId=2, passagerTarget=TO_LANT], Passager [id=160, terminalId=2, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=161, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=162, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=163, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=164, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=165, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=166, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=167, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=168, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=169, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=170, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=171, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=172, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=173, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=174, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=175, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=176, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=177, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=178, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=179, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=180, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=15, capacity=100, passagers=[Passager [id=161, terminalId=3, passagerTarget=TO_LANT], Passager [id=162, terminalId=0, passagerTarget=TO_LANT], Passager [id=163, terminalId=3, passagerTarget=TO_LANT], Passager [id=164, terminalId=2, passagerTarget=TO_LANT], Passager [id=165, terminalId=0, passagerTarget=TO_LANT], Passager [id=166, terminalId=3, passagerTarget=TO_LANT], Passager [id=167, terminalId=1, passagerTarget=TO_LANT], Passager [id=168, terminalId=3, passagerTarget=TO_LANT], Passager [id=169, terminalId=3, passagerTarget=TO_LANT], Passager [id=170, terminalId=3, passagerTarget=TO_LANT], Passager [id=171, terminalId=3, passagerTarget=TO_LANT], Passager [id=172, terminalId=3, passagerTarget=TO_LANT], Passager [id=173, terminalId=0, passagerTarget=TO_LANT], Passager [id=174, terminalId=0, passagerTarget=TO_LANT], Passager [id=175, terminalId=2, passagerTarget=TO_LANT], Passager [id=176, terminalId=3, passagerTarget=TO_LANT], Passager [id=177, terminalId=3, passagerTarget=TO_LANT], Passager [id=178, terminalId=0, passagerTarget=TO_LANT], Passager [id=179, terminalId=1, passagerTarget=TO_LANT], Passager [id=180, terminalId=0, passagerTarget=TO_LANT]]]
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:44 - Ladder19 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:48 - Ladder 19 has started disembarkation on plane 6
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=181, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [Thread-2] DisembarkationAction:26 - Plane size: 18
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=182, terminalId=1, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-2] DisembarkationAction:27 - Plane 6 is full
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=183, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=184, terminalId=0, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:52 - Ladder 19 has ended disembarkation on plane 6
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=185, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=186, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=187, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=188, terminalId=1, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-2] Ladder:71 - No plane found.
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=189, terminalId=2, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-6] Ladder:68 - No plane to perfome. Starting to find for one.
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=190, terminalId=1, passagerTarget=TO_LANT]
+[INFO ] 2019-06-17 04:00:51 [Thread-6] Ladder:71 - No plane found.
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=191, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=192, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=193, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=194, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=195, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=196, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=197, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=198, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=199, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=200, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=16, capacity=100, passagers=[Passager [id=181, terminalId=3, passagerTarget=TO_LANT], Passager [id=182, terminalId=1, passagerTarget=TO_LANT], Passager [id=183, terminalId=1, passagerTarget=TO_LANT], Passager [id=184, terminalId=0, passagerTarget=TO_LANT], Passager [id=185, terminalId=2, passagerTarget=TO_LANT], Passager [id=186, terminalId=2, passagerTarget=TO_LANT], Passager [id=187, terminalId=3, passagerTarget=TO_LANT], Passager [id=188, terminalId=1, passagerTarget=TO_LANT], Passager [id=189, terminalId=2, passagerTarget=TO_LANT], Passager [id=190, terminalId=1, passagerTarget=TO_LANT], Passager [id=191, terminalId=1, passagerTarget=TO_LANT], Passager [id=192, terminalId=1, passagerTarget=TO_LANT], Passager [id=193, terminalId=3, passagerTarget=TO_LANT], Passager [id=194, terminalId=3, passagerTarget=TO_LANT], Passager [id=195, terminalId=3, passagerTarget=TO_LANT], Passager [id=196, terminalId=0, passagerTarget=TO_LANT], Passager [id=197, terminalId=0, passagerTarget=TO_LANT], Passager [id=198, terminalId=1, passagerTarget=TO_LANT], Passager [id=199, terminalId=1, passagerTarget=TO_LANT], Passager [id=200, terminalId=1, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=201, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=202, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=203, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=204, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=205, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=206, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=207, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=208, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=209, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=210, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=211, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=212, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=213, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=214, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=215, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=216, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=217, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=218, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=219, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=220, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=17, capacity=100, passagers=[Passager [id=201, terminalId=0, passagerTarget=TO_LANT], Passager [id=202, terminalId=2, passagerTarget=TO_LANT], Passager [id=203, terminalId=0, passagerTarget=TO_LANT], Passager [id=204, terminalId=1, passagerTarget=TO_LANT], Passager [id=205, terminalId=1, passagerTarget=TO_LANT], Passager [id=206, terminalId=2, passagerTarget=TO_LANT], Passager [id=207, terminalId=0, passagerTarget=TO_LANT], Passager [id=208, terminalId=2, passagerTarget=TO_LANT], Passager [id=209, terminalId=3, passagerTarget=TO_LANT], Passager [id=210, terminalId=2, passagerTarget=TO_LANT], Passager [id=211, terminalId=1, passagerTarget=TO_LANT], Passager [id=212, terminalId=2, passagerTarget=TO_LANT], Passager [id=213, terminalId=1, passagerTarget=TO_LANT], Passager [id=214, terminalId=2, passagerTarget=TO_LANT], Passager [id=215, terminalId=1, passagerTarget=TO_LANT], Passager [id=216, terminalId=1, passagerTarget=TO_LANT], Passager [id=217, terminalId=1, passagerTarget=TO_LANT], Passager [id=218, terminalId=2, passagerTarget=TO_LANT], Passager [id=219, terminalId=2, passagerTarget=TO_LANT], Passager [id=220, terminalId=1, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=221, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=222, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=223, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=224, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=225, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=226, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=227, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=228, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=229, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=230, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=231, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=232, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=233, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=234, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=235, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=236, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=237, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=238, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=239, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=240, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=18, capacity=100, passagers=[Passager [id=221, terminalId=1, passagerTarget=TO_LANT], Passager [id=222, terminalId=3, passagerTarget=TO_LANT], Passager [id=223, terminalId=1, passagerTarget=TO_LANT], Passager [id=224, terminalId=0, passagerTarget=TO_LANT], Passager [id=225, terminalId=1, passagerTarget=TO_LANT], Passager [id=226, terminalId=2, passagerTarget=TO_LANT], Passager [id=227, terminalId=2, passagerTarget=TO_LANT], Passager [id=228, terminalId=0, passagerTarget=TO_LANT], Passager [id=229, terminalId=3, passagerTarget=TO_LANT], Passager [id=230, terminalId=2, passagerTarget=TO_LANT], Passager [id=231, terminalId=3, passagerTarget=TO_LANT], Passager [id=232, terminalId=1, passagerTarget=TO_LANT], Passager [id=233, terminalId=0, passagerTarget=TO_LANT], Passager [id=234, terminalId=2, passagerTarget=TO_LANT], Passager [id=235, terminalId=3, passagerTarget=TO_LANT], Passager [id=236, terminalId=1, passagerTarget=TO_LANT], Passager [id=237, terminalId=2, passagerTarget=TO_LANT], Passager [id=238, terminalId=1, passagerTarget=TO_LANT], Passager [id=239, terminalId=2, passagerTarget=TO_LANT], Passager [id=240, terminalId=0, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=241, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=242, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=243, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=244, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=245, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=246, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=247, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=248, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=249, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=250, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=251, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=252, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=253, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=254, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=255, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=256, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=257, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=258, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=259, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=260, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=19, capacity=100, passagers=[Passager [id=241, terminalId=0, passagerTarget=TO_LANT], Passager [id=242, terminalId=0, passagerTarget=TO_LANT], Passager [id=243, terminalId=2, passagerTarget=TO_LANT], Passager [id=244, terminalId=0, passagerTarget=TO_LANT], Passager [id=245, terminalId=2, passagerTarget=TO_LANT], Passager [id=246, terminalId=2, passagerTarget=TO_LANT], Passager [id=247, terminalId=2, passagerTarget=TO_LANT], Passager [id=248, terminalId=0, passagerTarget=TO_LANT], Passager [id=249, terminalId=2, passagerTarget=TO_LANT], Passager [id=250, terminalId=3, passagerTarget=TO_LANT], Passager [id=251, terminalId=1, passagerTarget=TO_LANT], Passager [id=252, terminalId=2, passagerTarget=TO_LANT], Passager [id=253, terminalId=2, passagerTarget=TO_LANT], Passager [id=254, terminalId=2, passagerTarget=TO_LANT], Passager [id=255, terminalId=0, passagerTarget=TO_LANT], Passager [id=256, terminalId=2, passagerTarget=TO_LANT], Passager [id=257, terminalId=1, passagerTarget=TO_LANT], Passager [id=258, terminalId=0, passagerTarget=TO_LANT], Passager [id=259, terminalId=2, passagerTarget=TO_LANT], Passager [id=260, terminalId=1, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=261, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=262, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=263, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=264, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=265, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=266, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=267, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=268, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=269, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=270, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=271, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=272, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=273, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=274, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=275, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=276, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=277, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=278, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=279, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=280, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=20, capacity=100, passagers=[Passager [id=261, terminalId=1, passagerTarget=TO_LANT], Passager [id=262, terminalId=2, passagerTarget=TO_LANT], Passager [id=263, terminalId=1, passagerTarget=TO_LANT], Passager [id=264, terminalId=2, passagerTarget=TO_LANT], Passager [id=265, terminalId=0, passagerTarget=TO_LANT], Passager [id=266, terminalId=1, passagerTarget=TO_LANT], Passager [id=267, terminalId=1, passagerTarget=TO_LANT], Passager [id=268, terminalId=0, passagerTarget=TO_LANT], Passager [id=269, terminalId=2, passagerTarget=TO_LANT], Passager [id=270, terminalId=2, passagerTarget=TO_LANT], Passager [id=271, terminalId=1, passagerTarget=TO_LANT], Passager [id=272, terminalId=2, passagerTarget=TO_LANT], Passager [id=273, terminalId=0, passagerTarget=TO_LANT], Passager [id=274, terminalId=3, passagerTarget=TO_LANT], Passager [id=275, terminalId=3, passagerTarget=TO_LANT], Passager [id=276, terminalId=3, passagerTarget=TO_LANT], Passager [id=277, terminalId=1, passagerTarget=TO_LANT], Passager [id=278, terminalId=3, passagerTarget=TO_LANT], Passager [id=279, terminalId=0, passagerTarget=TO_LANT], Passager [id=280, terminalId=1, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=281, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=282, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=283, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=284, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=285, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=286, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=287, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=288, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=289, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=290, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=291, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=292, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=293, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=294, terminalId=1, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=295, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=296, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=297, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=298, terminalId=3, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=299, terminalId=0, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:59 - Passager [id=300, terminalId=2, passagerTarget=TO_LANT]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:66 - Plane [id=21, capacity=100, passagers=[Passager [id=281, terminalId=2, passagerTarget=TO_LANT], Passager [id=282, terminalId=1, passagerTarget=TO_LANT], Passager [id=283, terminalId=2, passagerTarget=TO_LANT], Passager [id=284, terminalId=0, passagerTarget=TO_LANT], Passager [id=285, terminalId=2, passagerTarget=TO_LANT], Passager [id=286, terminalId=0, passagerTarget=TO_LANT], Passager [id=287, terminalId=2, passagerTarget=TO_LANT], Passager [id=288, terminalId=3, passagerTarget=TO_LANT], Passager [id=289, terminalId=3, passagerTarget=TO_LANT], Passager [id=290, terminalId=2, passagerTarget=TO_LANT], Passager [id=291, terminalId=0, passagerTarget=TO_LANT], Passager [id=292, terminalId=0, passagerTarget=TO_LANT], Passager [id=293, terminalId=0, passagerTarget=TO_LANT], Passager [id=294, terminalId=1, passagerTarget=TO_LANT], Passager [id=295, terminalId=0, passagerTarget=TO_LANT], Passager [id=296, terminalId=0, passagerTarget=TO_LANT], Passager [id=297, terminalId=0, passagerTarget=TO_LANT], Passager [id=298, terminalId=3, passagerTarget=TO_LANT], Passager [id=299, terminalId=0, passagerTarget=TO_LANT], Passager [id=300, terminalId=2, passagerTarget=TO_LANT]]]
+[DEBUG] 2019-06-17 04:00:51 [main] LandingActionTest:75 - Planes size: 10
+[DEBUG] 2019-06-17 04:00:51 [main] PassagerGeneratorTest:21 - Passager [id=301, terminalId=1, passagerTarget=NO_TARGET]
+[INFO ] 2019-06-17 04:00:51 [Thread-12] Terminal:43 - Terminal 6 has started.
+[DEBUG] 2019-06-17 04:00:51 [main] PlaneGeneratorTest:45 - Plane [id=22, capacity=94, passagers=[]]
+[DEBUG] 2019-06-17 04:00:51 [main] PlaneGeneratorTest:66 - Plane [id=23, capacity=100, passagers=[]]
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:39 - Ladder 34 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:74 - Ladder 34 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:44 - Ladder34 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:56 - Ladder 34 has started landing from plane 12 to terminal 35
+[DEBUG] 2019-06-17 04:00:51 [Thread-17] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:62 - Ladder 34 has ended landing from plane 12 to terminal 9
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:74 - Ladder 34 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:44 - Ladder34 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:56 - Ladder 34 has started landing from plane 13 to terminal 35
+[DEBUG] 2019-06-17 04:00:51 [Thread-17] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:62 - Ladder 34 has ended landing from plane 13 to terminal 9
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:74 - Ladder 34 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:44 - Ladder34 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-14] Terminal:43 - Terminal 7 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:56 - Ladder 34 has started landing from plane 14 to terminal 35
+[DEBUG] 2019-06-17 04:00:51 [Thread-17] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:62 - Ladder 34 has ended landing from plane 14 to terminal 9
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:74 - Ladder 34 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:44 - Ladder34 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:56 - Ladder 34 has started landing from plane 15 to terminal 35
+[DEBUG] 2019-06-17 04:00:51 [Thread-17] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:62 - Ladder 34 has ended landing from plane 15 to terminal 9
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:74 - Ladder 34 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:44 - Ladder34 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:56 - Ladder 34 has started landing from plane 16 to terminal 35
+[DEBUG] 2019-06-17 04:00:51 [Thread-17] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:62 - Ladder 34 has ended landing from plane 16 to terminal 9
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:74 - Ladder 34 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:44 - Ladder34 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:56 - Ladder 34 has started landing from plane 17 to terminal 35
+[DEBUG] 2019-06-17 04:00:51 [Thread-17] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:62 - Ladder 34 has ended landing from plane 17 to terminal 9
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:74 - Ladder 34 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:44 - Ladder34 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-16] Terminal:43 - Terminal 8 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:56 - Ladder 34 has started landing from plane 18 to terminal 35
+[DEBUG] 2019-06-17 04:00:51 [Thread-17] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:62 - Ladder 34 has ended landing from plane 18 to terminal 9
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:74 - Ladder 34 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:44 - Ladder34 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:56 - Ladder 34 has started landing from plane 19 to terminal 35
+[DEBUG] 2019-06-17 04:00:51 [Thread-17] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:62 - Ladder 34 has ended landing from plane 19 to terminal 9
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:39 - Ladder 28 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:74 - Ladder 28 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:44 - Ladder28 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:56 - Ladder 28 has started landing from plane 20 to terminal 29
+[DEBUG] 2019-06-17 04:00:51 [Thread-11] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:62 - Ladder 28 has ended landing from plane 20 to terminal 6
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:74 - Ladder 28 found the plane.
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:44 - Ladder28 has a plane to performe actions.
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:56 - Ladder 28 has started landing from plane 21 to terminal 29
+[DEBUG] 2019-06-17 04:00:51 [Thread-11] LandingAction:27 - Plane size: 20
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:62 - Ladder 28 has ended landing from plane 21 to terminal 6
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-11] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 04:00:51 [Thread-18] Terminal:43 - Terminal 9 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-13] Ladder:39 - Ladder 30 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-13] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-13] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-17] Ladder:71 - No plane found.
+[INFO ] 2019-06-17 04:00:51 [Thread-15] Ladder:39 - Ladder 32 has started.
+[INFO ] 2019-06-17 04:00:51 [Thread-15] Ladder:68 - No plane to perfome. Starting to find for one.
+[INFO ] 2019-06-17 04:00:51 [Thread-15] Ladder:71 - No plane found.
+[ERROR] 2019-06-17 04:00:51 [main] PlaneGeneratorTest:90 - Got problem in creating the plane.
+kz.zhanbolat.jthreads.exception.PlaneException: Passagers is more than the capacity of the plane
+	at kz.zhanbolat.jthreads.entity.Plane.<init>(Plane.java:21) ~[classes/:?]
+	at kz.zhanbolat.jthreads.generator.PlaneGenerator.generate(PlaneGenerator.java:27) ~[classes/:?]
+	at kz.zhanbolat.jthreads.PlaneGeneratorTest.generatorShouldThrowException(PlaneGeneratorTest.java:87) [test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47) [junit-4.11.jar:?]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.11.jar:?]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44) [junit-4.11.jar:?]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.11.jar:?]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271) [junit-4.11.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70) [junit-4.11.jar:?]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50) [junit-4.11.jar:?]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238) [junit-4.11.jar:?]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63) [junit-4.11.jar:?]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236) [junit-4.11.jar:?]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53) [junit-4.11.jar:?]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229) [junit-4.11.jar:?]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.11.jar:?]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309) [junit-4.11.jar:?]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365) [surefire-junit4-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273) [surefire-junit4-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238) [surefire-junit4-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159) [surefire-junit4-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384) [surefire-booter-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345) [surefire-booter-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126) [surefire-booter-2.22.1.jar:2.22.1]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418) [surefire-booter-2.22.1.jar:2.22.1]
+[DEBUG] 2019-06-17 04:00:51 [main] TerminalGeneratorTest:55 - Thread[Thread-20,5,main]

@@ -1,2 +1,16 @@
+kz\zhanbolat\jthreads\action\DisembarkationAction.class
+kz\zhanbolat\jthreads\App.class
+kz\zhanbolat\jthreads\entity\Plane.class
+kz\zhanbolat\jthreads\entity\Ladder.class
+kz\zhanbolat\jthreads\action\LandingAction.class
+kz\zhanbolat\jthreads\generator\TerminalGenerator.class
+kz\zhanbolat\jthreads\entity\Airport.class
 kz\zhanbolat\jthreads\generator\PassagerGenerator.class
+kz\zhanbolat\jthreads\generator\PlaneGenerator.class
+kz\zhanbolat\jthreads\entity\Passager.class
+kz\zhanbolat\jthreads\generator\IdGenerator.class
 kz\zhanbolat\jthreads\entity\PassagerTarget.class
+kz\zhanbolat\jthreads\generator\LadderGenerator.class
+kz\zhanbolat\jthreads\entity\Terminal.class
+kz\zhanbolat\jthreads\exception\PlaneException.class
+kz\zhanbolat\jthreads\finder\PlaneFinder.class
