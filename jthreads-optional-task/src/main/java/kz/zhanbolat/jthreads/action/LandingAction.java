@@ -16,11 +16,12 @@ public class LandingAction {
 	public void land(Plane plane, Ladder ladder) {
 		lock.lock();
 		try {
-			for (int i = 0; i < plane.getCapacity(); i++) {
+			for (int i = 0; i < plane.size(); i++) {
 				Passager passager = plane.get(i);
 				ladder.add(passager);
 			}
 			plane.clear();
+			ladder.setPlane(null);
 		} finally {
 			lock.unlock();
 		}
@@ -43,7 +44,7 @@ public class LandingAction {
 		try {
 			for (int i = 0; i < terminal.size(); i++) {
 				Passager passager = terminal.get(i);
-				if (passager.getTerminalId() == -1) {
+				if (passager.getPassagerTarget() == PassagerTarget.TO_LANT) {
 					passager.setPassagerTarget(PassagerTarget.NO_TARGET);
 					airport.addPassager(passager);
 					terminal.remove(i);

@@ -19,9 +19,17 @@ public class Terminal extends Thread {
 	private static LandingAction landingAction = new LandingAction();
 	private static DisembarkationAction disembarkationAction = new DisembarkationAction();
 	
-	public Terminal(Integer id, Ladder ladder) {
+	public Terminal(Integer id, Ladder ladder, Airport airport, List<Passager> passagers) {
 		this.id = id;
 		this.ladder = ladder;
+		this.airport = airport;
+		this.passagers = passagers;
+	}
+	
+	public Terminal(Integer id, Ladder ladder, Airport airport) {
+		this.id = id;
+		this.ladder = ladder;
+		this.airport = airport;
 		passagers = new ArrayList<>();
 	}
 	
@@ -32,7 +40,24 @@ public class Terminal extends Thread {
 	
 	@Override
 	public void run() {
-		
+		logger.info("Terminal " + id + " has started.");
+		while(true) {
+			if (passagers.size() != 0 && ladder != null &&
+				ladder.getPlane() != null) {
+				Passager passager = passagers.get(0);
+				if (passager.getPassagerTarget() == PassagerTarget.TO_DISAMBARK) {
+					logger.info("Terminal " + id + " has started disembarkation,"
+								+ "on ladder " + ladder.getId() + ".");
+					disembarkationAction.disembark(Terminal.this, ladder);
+					logger.info("Terminal " + id + " has ended disembarkation.");
+				} else {
+					logger.info("Terminal " + id + " has started landing,"
+								+ "on airport.");
+					landingAction.land(Terminal.this, airport);
+					logger.info("Terminal " + id + " has ended landing.");
+				}
+			}
+		}
 	}
 
 	public long getId() {

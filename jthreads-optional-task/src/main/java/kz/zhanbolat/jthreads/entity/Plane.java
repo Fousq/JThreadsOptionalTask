@@ -3,19 +3,31 @@ package kz.zhanbolat.jthreads.entity;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 
 import kz.zhanbolat.jthreads.action.LandingAction;
+import kz.zhanbolat.jthreads.exception.PlaneException;
 
 public class Plane {
 	private Long id;
 	private int capacity;
-	private int flyDistance;
 	private List<Passager> passagers;
 	private static LandingAction landingAction = new LandingAction();
 	
-	public Plane(int capacity, int flyDistance) {
+	public Plane(long id, int capacity, List<Passager> passagers)
+												throws PlaneException {
+		this.id = id;
+		if (passagers.size() > capacity) {
+			throw new PlaneException("Passagers is more than the capacity of"
+									+ " the plane");
+		}
 		this.capacity = capacity;
-		this.flyDistance = flyDistance;
+		this.passagers = passagers;
+	}
+	
+	public Plane(long id, int capacity) {
+		this.id = id;
+		this.capacity = capacity;
 		this.passagers = new ArrayList<>(capacity);
 	}
 	
@@ -29,18 +41,6 @@ public class Plane {
 
 	public int getCapacity() {
 		return capacity;
-	}
-
-	public void setCapacity(int capacity) {
-		this.capacity = capacity;
-	}
-
-	public int getFlyDistance() {
-		return flyDistance;
-	}
-
-	public void setFlyDistance(int flyDistance) {
-		this.flyDistance = flyDistance;
 	}
 
 	public List<Passager> getPassagers() {
@@ -77,6 +77,40 @@ public class Plane {
 	
 	public boolean isFull() {
 		return (capacity - passagers.size()) == 0;
+	}
+	
+	public void land(Ladder ladder) {
+		landingAction.land(Plane.this, ladder);
+	}
+
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append("Plane [id=");
+		builder.append(id);
+		builder.append(", capacity=");
+		builder.append(capacity);
+		builder.append(", passagers=");
+		builder.append(passagers);
+		builder.append("]");
+		return builder.toString();
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(capacity, id, passagers);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Plane other = (Plane) obj;
+		return capacity == other.capacity && Objects.equals(id, other.id) && Objects.equals(passagers, other.passagers);
 	}
 	
 }

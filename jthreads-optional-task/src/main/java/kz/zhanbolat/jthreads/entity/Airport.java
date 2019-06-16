@@ -16,16 +16,14 @@ public class Airport {
 	private static final Logger logger = LogManager.getLogger(Airport.class);
 	private static Lock lock = new ReentrantLock();
 	private static Airport instance;
-	private List<Terminal> terminals;
-	private List<Ladder> ladder;
 	private List<Passager> passagers;
-	private boolean isPoolGenerated = false;
-	private static LandingAction ladingAction = new LandingAction();
+	private List<Plane> planes;
 	private static DisembarkationAction disembarkationAction 
 												= new DisembarkationAction();
 	
 	private Airport() {
 		passagers = new ArrayList<>();
+		planes = new ArrayList<>();
 	}
 	
 	public static Airport getInstance() {
@@ -40,21 +38,6 @@ public class Airport {
 		}
 	}
 	
-	public void generatePool(int size) {
-		if (isPoolGenerated) {
-			logger.error("Pool has been already generated.");
-			return;
-		}
-		terminals = new ArrayList<>(size);
-		ladder = new ArrayList<>(size);
-		while(size != 0) {
-			terminals.add(new Terminal(size));
-			ladder.add(new Ladder());
-			size--;
-		}
-		isPoolGenerated = true;
-	}
-	
 	public void setPassagers(List<Passager> passagers) {
 		this.passagers = passagers;
 	}
@@ -63,6 +46,14 @@ public class Airport {
 		return Collections.unmodifiableList(passagers);
 	}
 	
+	public List<Plane> getPlanes() {
+		return planes;
+	}
+
+	public void setPlanes(List<Plane> planes) {
+		this.planes = planes;
+	}
+
 	public Passager getPassager(int index) {
 		return passagers.get(index);
 	}
@@ -79,8 +70,32 @@ public class Airport {
 		passagers.remove(index);
 	}
 	
-	public int size() {
+	public int passagersSize() {
 		return passagers.size();
+	}
+	
+	public void addPlane(Plane plane) {
+		planes.add(plane);
+	}
+	
+	public Plane getPlane(int index) {
+		return planes.get(index);
+	}
+	
+	public void removePlane(int index) {
+		planes.remove(index);
+	}
+	
+	public void removePlane(Plane plane) {
+		planes.remove(plane);
+	}
+	
+	public int planesSize() {
+		return planes.size();
+	}
+	
+	public void disembark(Terminal terminal) {
+		disembarkationAction.disembark(Airport.this, terminal);
 	}
 	
 }
